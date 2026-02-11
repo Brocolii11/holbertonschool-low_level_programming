@@ -1,8 +1,4 @@
 #include <stdio.h>
-#
-#/**
-#* vamos a imprimir hello world
-#*/
 #int main(void)
 #{
 #	printf("Hello World!\n")
