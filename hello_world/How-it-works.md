@@ -1,9 +1,5 @@
 # How It Works — Hello World Study Guide
 
-**Project:** Hello World  
-**Course:** Holberton School — Low-Level Programming  
-**Location:** `holbertonschool-low_level_programming/hello_world/`
-
 This study guide covers the concepts and topics in the Hello World project. It walks through the C compilation pipeline (preprocessing, compilation, assembly, linking) and basic output with `puts()` and `printf()`. Use this for review and study.
 
 ---
